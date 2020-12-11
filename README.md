@@ -1,8 +1,7 @@
 # Remix Ide
-[![GitHub Release](https://img.shields.io/github/release/zjayers/remix.ide.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/remix.ide.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/remix.ide.svg?style=flat)](https://github.com/zjayers/remix.ide/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/remix.ide.svg?style=flat)](https://github.com/zjayers/remix.ide/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/remix.ide.svg?maxAge=25000)](https://github.com/zjayers/remix.ide/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/remix.ide/blob/master/LICENSEs)
 
 ## Description
 
